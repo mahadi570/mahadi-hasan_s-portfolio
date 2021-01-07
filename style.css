@@ -1,0 +1,168 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #363958;
+}
+
+.top {
+    display: inline;
+    margin: 10px;
+}
+
+.first {
+    text-align: right;
+    margin: 2% 10% 0 0;
+    padding-bottom: 50px;
+}
+
+.first a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.htext {
+    color: coral;
+}
+
+.same {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.same img {
+    width: 100%;
+}
+
+.button {
+    text-decoration: none;
+    background: linear-gradient(tomato, orange);
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-weight: 400
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+}
+.secondsec{
+    height: 500px;
+}
+.thirdsec{
+        height: 700px;
+}
+.fourthsec{
+    width: 100%;
+    height: 600px;
+    display: block;
+    margin: auto;
+    margin-bottom: 150px;
+}
+.container{
+    width:80%;
+    height: 100%;
+    margin: auto;
+}
+.lwp{
+    text-align: center;
+    padding: 50px 0 100px 0;
+}
+.gym{
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    border: 7px solid;
+    border-radius: 5px;
+    border-image:linear-gradient(blue , cyan, tomato);
+    border-image-slice: 1;
+    
+}
+.fourthsec img{
+    width: 100%;
+}
+.agency{
+    
+    width: 20%;
+    float: left;
+    margin: 0% 5%;
+    border: 7px solid;
+    border-image:linear-gradient(cyan, blue, tomato);
+    border-image-slice: 1;
+    border-radius: 5px;
+    
+}
+.music{
+    
+    width: 20%;
+    float: left;
+    border: 7px solid;
+    border-image:linear-gradient(tomato, orange, cyan);
+    border-image-slice: 1;
+    border-radius: 5px;
+}
+.lwpdiv{
+    border-radius: 5px;
+    padding: 2px 30px;
+    box-shadow:2px 5px 40px rgb(121, 116, 116) ;
+    border-image-slice: 1;
+    height: 53%;
+}
+.fifth{
+    padding-top: 50px;
+    width: 75%;
+    height: 200px;
+    background: url("images/03.png") no-repeat;
+    background-size: 100%;
+    margin: auto;
+}
+
+.fone{
+    color:white;
+    float: left;
+    margin: 0 5%;
+    font-size: 50px;
+    font-weight: bold;
+}
+.ftwo{
+    height: 100%;
+    float: right;
+    margin: 5%
+}
+.lwpdiv a{
+    text-decoration: none;
+    color: #363958;
+}
+.sixthsec{
+    text-align: center;
+    margin-top: 100px;
+    height: 400px;
+}
+.sconnected{
+    color: #696871;
+    font-size: 25px;
+}
+.contact span{
+    margin: 5px 10px;
+    height: 10%;
+}
+.contact img {
+    width: 3%;
+}
+
+.footer{
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}
